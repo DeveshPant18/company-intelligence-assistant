@@ -1,0 +1,11 @@
+streamlit
+requests
+beautifulsoup4
+newspaper3k
+langchain
+faiss-cpu
+sentence-transformers
+python-dotenv
+matplotlib
+yfinance
+nltk
